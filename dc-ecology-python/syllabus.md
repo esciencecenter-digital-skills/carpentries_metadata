@@ -1,8 +1,0 @@
-- Introduction to Python: What is Python and why should I learn it?
-- Python basics
-- Reading data from a file using Pandas
-- Accessing specific data within a dataset using Pandas
-- Data analysis using Pandas
-- Combining datasets using Pandas
-- Data workflows and automation in Python
-- Data visualisation using plotnine

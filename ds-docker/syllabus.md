@@ -1,7 +1,0 @@
-- Introduction to containers and container images
-- Docker command line
-- Exploring and running containers
-- Docker Hub
-- Managing Docker containers and images
-- Creating Docker images
-- Docker containers in research workflows
